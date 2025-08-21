@@ -1,19 +1,19 @@
-# Skinalor
+# SkinalorRAG
 Skinalor combines image and text inputs, leveraging a multimodal model for preliminary screening. It incorporates a Retrieval-Augmented Generation (RAG) mechanism to enhance accuracy and explainability.
 
 This project mainly provides: construction and validation of a RAG system, RAG-based retrieval, and performance evaluation of model baselines and RAG-augmented models.
 
 
 # clone our project
-git clone https://github.com/william-lijunxuan/Skinalor.git
+git clone https://github.com/william-lijunxuan/SkinalorRAG.git
 
 cd Skinalor
 
 # prepare python environment
 ## create conda 
-conda create -n Skinalor python=3.10
+conda create -n SkinalorRAG python=3.10
 
-conda activate Skinalor
+conda activate SkinalorRAG
 
 pip install -r requirements.txt
 ## install flash-attn  
