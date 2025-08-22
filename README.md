@@ -7,7 +7,7 @@ This project mainly provides: construction and validation of a RAG system, RAG-b
 # clone our project
 git clone https://github.com/william-lijunxuan/SkinalorRAG.git
 
-cd Skinalor
+cd SkinalorRAG
 
 # prepare python environment
 ## create conda 
